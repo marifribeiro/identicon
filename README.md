@@ -4,11 +4,11 @@ This is a console based application that will return an image. This image will b
 
 The image creation is arbitrary, but, since it uses a string (actually, it uses the string [MD5 hashing](https://en.wikipedia.org/wiki/MD5) if you input the same exact string over and over again, it will return the same image.
 
-This application was created following (The Complete Phoenix and Elixit Bootcamp)[https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial] course at Udemy.
+This application was created following [The Complete Phoenix and Elixit Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial) course at Udemy.
 
 ## Use
 
-You will need Elixir installed to run this command-line application. Follow the instructions (here)[https://elixir-lang.org/install.html], it's very easy :)
+You will need Elixir installed to run this command-line application. Follow the instructions [here](https://elixir-lang.org/install.html), it's very easy :)
 
 After installing Elixir, follow this steps:
 
